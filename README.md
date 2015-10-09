@@ -18,7 +18,7 @@
 
 ### 学习方法论:
 - [学习编程的方法论](./v2coder.md)
-- [所有程序员都应该掌握的技能](./CommonSkills)
+- [所有程序员都应该掌握的通用技能](./CommonSkills)
 
 ### 程序员之路:
 - [Python 程序员之路](./Pythoner)
@@ -36,5 +36,6 @@
 
 ## 友情推荐github项目:
 
-- []()
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+- [Frontend Knowledge Structure](https://github.com/JacksonTian/fks)
 
