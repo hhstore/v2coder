@@ -34,7 +34,7 @@
         - urllib, urllib2
         - ...
     - [设计模式]
-        - 
+        -
 
 
 ### 23种设计模式:
@@ -42,4 +42,3 @@
 - 思维导图:
 
 ![参考](./resource/01_Python_23_Design_Patterns.png)
-
